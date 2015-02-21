@@ -3,40 +3,40 @@ Contributors: horike,megumithemes
 Tags: google analytics
 Requires at least: 4.1
 Tested up to: 4.1
-Stable tag: 1.0
+Stable tag: 1.1
 
-This pulgin visualizes the evaluation of your post content.
+This plugin visualizes the evaluation of your post content.
 
 == Description ==
-This plugins visualizes the evaluation of your post content based on the score of [One Content Metric to Rule Them All](http://moz.com/blog/one-metric).
+This plugin visualizes the evaluation of your post content based on the score of [One Content Metric to Rule Them All](http://moz.com/blog/one-metric).
 This analyzes the latest 40 posts. After that, it analyzes once a day and automatically update the score.
 
 Analyses are based on the following numbers as the score:
 - Unique page views by Google Analytics
-- Number of shares with Facebook
-- Number of shares with Twitter
+- Number of shares on Facebook
+- Number of shares on Twitter
 
-For any suggestions on the improvement of this plugin, send your pull requests [github] (https://github.com/horike37/wp-one-metric).
+For any suggestions on the improvement of this plugin, send your pull requests [github](https://github.com/horike37/wp-one-metric).
 
-= How use =
+= How to use =
 1. Set up on `Settings > WP One Metric Setting`
 2. Push `Analyze` button on `Dashboard WP One Metric`
 
-= Translators =
+= Translator(s) =
 * Japanese(ja) - [Horike Takahiro](http://profiles.wordpress.org/horike)
 
 You can send your own language pack to me.
 
-Please contact to me.
+Please contact me.
 
 * horike37@gmail.com
 
-= Contributors =
+= Contributor(s) =
 * [Horike Takahiro](http://profiles.wordpress.org/horike)
 
 == Installation ==
 
-1. Upload `simple-ga-ranking` to the `/wp-content/plugins/` directory.
+1. Upload `wp-one-metric` to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 
 == Screenshots ==
@@ -47,3 +47,5 @@ Horizontal axis: article
 == Changelog ==
 = 1.0 =
 * First release. 
+= 1.1 =
+* Add function CSV Download. 
