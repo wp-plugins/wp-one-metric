@@ -26,6 +26,7 @@ Please contact me.
 
 ## Contributors
 * [Horike Takahiro](http://profiles.wordpress.org/horike)
+* [Kel DC](https://profiles.wordpress.org/kel-dc)
 
 ## Installation
 
@@ -37,3 +38,5 @@ Please contact me.
 * First release.
 = 1.1 =
 * Add function CSV Download. 
+= 1.1.1 =
+* Bug fix
